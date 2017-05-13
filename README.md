@@ -18,10 +18,10 @@ This repo contains the design pattern of subject "Software Design and Architectu
 # Todo
 add missing pattern (before midterm)
 
-[ ] Command
-[ ] Template
-[ ] Facade
-[ ] Adapter
-[ ] Observer
-[ ] Strategy
-[ ] Decorator
+- [ ] Command
+- [ ] Template
+- [ ] Facade
+- [ ] Adapter
+- [ ] Observer
+- [ ] Strategy
+- [ ] Decorator
