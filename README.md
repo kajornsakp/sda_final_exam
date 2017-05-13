@@ -1,6 +1,5 @@
-# sda_final_exam
-
-This repo contains the design pattern of subject "Software Design and Architecture"
+#Software Design and Architecture (SDA) 
+This repo contains the design pattern of course "Software Design and Architecture"
 
 # Patterns
 
